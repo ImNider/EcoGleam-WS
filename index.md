@@ -20,6 +20,3 @@ title: Inicio
     </div>
 </main>
 {% include footer.html %}
-
-
-
