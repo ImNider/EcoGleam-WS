@@ -1,0 +1,26 @@
+.titulo-1 {
+    text-align: center;
+    font-size: 80px;
+    padding: 10px;
+}
+
+.galeria {
+    padding: 0px 40px;
+}
+
+.elemento-navbar {
+    padding: 0px 55px;
+    font-size: 20px;
+}
+
+.articulo {
+    display: flex;
+    padding: 0px 50px 50px 50px;
+    width: 100%;
+}
+
+.titulo-2 {
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
