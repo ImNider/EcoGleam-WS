@@ -5,7 +5,28 @@
 }
 
 .galeria {
-    padding: 0px 40px;
+    padding: 0px 100px;
+}
+
+.galeria-header {
+    color: #333333;
+    border-radius: 10px;
+    background-color: #EEEEEE;
+    border: 1px solid #D6DBDF;
+    margin: 20px 0px;
+    padding: 50px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.galeria-header h1 {
+    font-size: 70px;
+}
+
+.galeria-header p {
+    font-size: 20px;
 }
 
 .elemento-navbar {
