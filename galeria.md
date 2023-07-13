@@ -14,22 +14,22 @@ title: Galería
 		</div>
     <div class="row">
       <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
-        <img src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp"
-          class="w-100 shadow-1-strong rounded mb-4" alt="Boat on Calm Water"/>
-        <img src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain1.webp"
-          class="w-100 shadow-1-strong rounded mb-4" alt="Wintry Mountain Landscape" />
+        <img src="assets/img/ecogleam-09.jpeg"
+          class="w-100 shadow-1-strong rounded mb-4"/>
+        <!-- <img src="assets/img/ecogleam-03.jpeg"
+          class="w-100 shadow-1-strong rounded mb-4"/> -->
       </div>
       <div class="col-lg-4 mb-4 mb-lg-0">
-        <img src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain2.webp"
-          class="w-100 shadow-1-strong rounded mb-4" alt="Mountains in the Clouds" />
-        <img src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp"
-          class="w-100 shadow-1-strong rounded mb-4" alt="Boat on Calm Water" />
+        <img src="assets/img/ecogleam-05.jpeg"
+          class="w-100 shadow-1-strong rounded mb-4"/>
+        <img src="assets/img/ecogleam-02.jpeg"
+          class="w-100 shadow-1-strong rounded mb-4"/>
       </div>
       <div class="col-lg-4 mb-4 mb-lg-0">
-        <img src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(18).webp"
-          class="w-100 shadow-1-strong rounded mb-4" alt="Waves at Sea" />
-        <img src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain3.webp"
-          class="w-100 shadow-1-strong rounded mb-4" alt="Yosemite National Park" />
+        <img src="assets/img/ecogleam-07.jpeg"
+          class="w-100 shadow-1-strong rounded mb-4"/>
+        <img src="assets/img/ecogleam-10.jpeg"
+          class="w-100 shadow-1-strong rounded mb-4"/>
       </div>
     </div>
   </div>
