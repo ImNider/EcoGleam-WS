@@ -7,8 +7,8 @@ title: Galería
 {% include header.html %}
 <main>
   <!-- Gallery -->
-  <div class="galeria">
-    <div class="galeria-header">
+  <div class="subcuerpo">
+    <div class="subcuerpo-header">
 			<h1><i class="fa fa-camera-retro"></i> EcoGleam</h1>
 			<p> Una pequeña muestra de nuestro trabajo y compromiso... </p>
 		</div>

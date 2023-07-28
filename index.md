@@ -6,17 +6,24 @@ title: Inicio
 {% include head.html %}
 {% include header.html %}
 <main>
-    <h1 class="titulo-1"> EcoGleam </h1>
-    <div class="articulo">
-        <section style="width: 50%; max-height: 450px">
-            <img src="assets/img/ecogleam-11.jpeg" style="width:100%; max-height: 450px; border-radius: 20px; object-fit: contain">
-        </section>
-        <section style="width: 50%; padding: 30px;">
-            <h1 class="titulo-2"> Velas Aromáticas </h1>
-            <p style="font-size:20px; text-align: justify">
-                Las velas hechas con cera de soya son una alternativa cada vez más popular y apreciada en el mercado de velas. La cera de soya se obtiene a partir del procesamiento de los granos de soya, una planta cultivada ampliamente en diversas regiones del mundo. Este tipo de velas ofrece una serie de características y ventajas que las distinguen de las velas tradicionales hechas con cera de parafina u otros materiales.
-            </p>
-        </section>
-    </div>
+     <main style="padding: 20px 150px">
+        <div class="product-card">
+            <img class="product-image" src="assets/img/ecogleam-01.jpeg" alt="Producto 1">
+            <div class="product-info">
+                <h2 class="product-name">Vela aromática </h2>
+                <p class="product-description"> Disfruta de tus actividades con un olor relajante. </p>
+                <span class="product-price">$5.00</span>
+            </div>
+        </div>
+        <div class="product-card">
+            <img class="product-image" src="assets/img/ecogleam-09.jpeg" alt="Producto 2">
+            <div class="product-info">
+                <h2 class="product-name"> Vela decorativa </h2>
+                <p class="product-description">Adorna tu hogar con nuestras hermosas velas.</p>
+                <span class="product-price"><i>Próximamente</i></span>
+            </div>
+        </div>
+        <!-- Puedes agregar más tarjetas de productos aquí -->
+    </main>
 </main>
 {% include footer.html %}
